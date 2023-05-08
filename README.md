@@ -27,7 +27,7 @@ Ensure that you have the following tools installed on your local machine:
 3. Run the following command:
 
 \`\`\`bash
-git clone https://github.com/acollins112/PersonalWebsite.git
+git clone https://github.com/acollins112/finalproject.git
 \`\`\`
 
 ## Project Structure
