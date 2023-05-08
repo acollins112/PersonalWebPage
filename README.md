@@ -1,5 +1,5 @@
 # Personal Website
-
+⭐️⭐️⭐️⭐️⭐️
 This repository contains the files for my personal website, [AnthonyCollins.me](https://anthonycollins.me). The website showcases my portfolio, projects, and other professional information.
 
 ## Table of Contents
